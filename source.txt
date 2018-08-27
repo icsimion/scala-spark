@@ -1,0 +1,2 @@
+https://github.com/faizanahemad/spark-gradle-template
+
