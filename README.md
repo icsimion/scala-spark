@@ -9,7 +9,7 @@ A barebones project with scala, apache spark built using gradle. Spark-shell pro
 ## Build and Demo process
 
 ### Clone the Repo
-`git clone https://github.com/isimion/scala-spark-gradle-empty.git`
+`git clone https://github.com/isimion/scala-spark.git`
 
 ### Build
 `./gradlew clean build`
